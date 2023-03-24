@@ -90,7 +90,5 @@ The final choice of model for deployment depends on:
 * But we know that, higher the model complexity, lower is the model interpretability. Hence if the predictions must be explained to stakeholders, then XG Boost is not an ideal choice.
 * In this case decision tree can be used, since they are easier to explain. By choosing a simpler model, we will be compromising with the model accuracy (Accuracy vs Interpretability trade-off).
 
-**Model Summary:-**
-* Summarizing the results obtained
-![Screenshot 1](https://user-images.githubusercontent.com/101059401/193441659-f8f4598c-1b3e-48a9-811f-77866333b9b1.png)
+
 
